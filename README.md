@@ -1,5 +1,4 @@
- 
- This project is built by  [Abdalla Ali](https://github.com/Abdalla-Aly) and  [Raji Oluwatosin](https://github.com/BestStar42) 
+This project is built by  [Abdalla Ali](https://github.com/Abdalla-Aly) and  [Raji Oluwatosin](https://github.com/BestStar42) 
 # _printf
 ```_printf``` is a custom implementation of the C programming function ```printf```. This project is an application of the C programming knowledge that given to us on August ,09, 2022
 **Prototype:** ```int _printf(const char *, ...);```
