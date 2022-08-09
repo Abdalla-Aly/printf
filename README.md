@@ -33,6 +33,6 @@
   * ```va_arg``` (man 3 va_arg)
  
 ## Authors
-Mohamed Abdullahi Hassan, https://github.com/zayidmohamedy/printf
+Abdullahi Ali mahmoud, https://github.com/Abdalla-Aly/printf
 
-safiya shariif, https://github.com/safiyoow
+Raji Oluwatosin, https://github.com/BestStar42
